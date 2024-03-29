@@ -2,7 +2,7 @@
 
 CXX = g++
 
-CXXFLAGS = -std=c++17 -Wall -O2 -fPIC
+CXXFLAGS = -std=c++17 -Wall -O2 -fPIC -ffast-math -mavx
 
 PROJECT_DIR = .
 ROOT_LIB_DIR = /opt/root/root-install/lib
