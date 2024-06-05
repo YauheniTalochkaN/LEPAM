@@ -4,4 +4,4 @@ LEPAM (Low-Energy Particles And Materials) is a toolkit to simulate the propagat
 # You can find its website using <a href="https://yauhenitalochkan.github.io/LEPAM_Docs/"  target="_blank" rel="noopener">this link</a>.
 
 # License
-This project is licensed under the [CC BY-NC-ND 4.0 license](LICENSE.txt).
+This project is licensed under the [CC BY-NC-ND 4.0 license](LICENSE.md).
